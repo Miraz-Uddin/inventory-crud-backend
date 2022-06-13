@@ -1,0 +1,22 @@
+{
+  "name": "inventory-crud-backend",
+  "version": "1.0.0",
+  "description": "this is server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db.json --port=4001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miraz-Uddin/inventory-crud-backend.git"
+  },
+  "author": "Md. Miraz Uddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miraz-Uddin/inventory-crud-backend/issues"
+  },
+  "homepage": "https://github.com/Miraz-Uddin/inventory-crud-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

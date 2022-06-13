@@ -1,0 +1,67 @@
+{
+    "inventories": [
+        {
+            "id": 1,
+            "title": "Shirt",
+            "price": 300,
+            "quantity": 20,
+            "weight": 1,
+            "color": "white",
+            "thumbnail": "https://picsum.photos/360/360"
+        },
+        {
+            "id": 2,
+            "title": "Book",
+            "price": 150,
+            "quantity": 20,
+            "weight": 3,
+            "color": null,
+            "thumbnail": "https://picsum.photos/360/360"
+        },
+        {
+            "id": 3,
+            "title": "Pant",
+            "price": 1200,
+            "quantity": 20,
+            "weight": 3.5,
+            "color": "grey",
+            "thumbnail": "https://picsum.photos/360/360"
+        },
+        {
+            "id": 4,
+            "title": "Sofa",
+            "price": 20000,
+            "quantity": 5,
+            "weight": 20,
+            "color": null,
+            "thumbnail": "https://picsum.photos/360/360"
+        },
+        {
+            "id": 5,
+            "title": "Mug",
+            "price": 50,
+            "quantity": 200,
+            "weight": 1.3,
+            "color": "brown",
+            "thumbnail": "https://picsum.photos/360/360"
+        },
+        {
+            "id": 6,
+            "title": "Keyboard",
+            "price": 600,
+            "quantity": 9,
+            "weight": 4,
+            "color": "black",
+            "thumbnail": "https://picsum.photos/360/360"
+        },
+        {
+            "id": 7,
+            "title": "Mouse",
+            "price": 350,
+            "quantity": 20,
+            "weight": 2.5,
+            "color": "black",
+            "thumbnail": "https://picsum.photos/360/360"
+        }
+    ]
+}
